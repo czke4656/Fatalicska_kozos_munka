@@ -12,3 +12,14 @@ a, button {
 button, img {
     display: block; /*chatgpt kód, minden más fejből vagy w3school-ról jött*/
 }
+a:link {
+    color: rgb(2, 0, 128);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:hover {
+    color: rgb(0, 162, 255);
+    background-color: transparent;
+    text-decoration: none;
+    font-weight: bold;
+  }
